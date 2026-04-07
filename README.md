@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=E05C00)](https://www.linkedin.com/in/t-deepak-kumar-patro-230753367/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=E05C00)](mailto:talasudeepak06@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=E05C00)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=E05C00)](https://portfolio-neon-theta-82.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E05C00)](https://github.com/Talasudeepk)
 
 </div>
@@ -250,19 +250,18 @@ If you respect the grind and want to build something real — let's talk.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-deepak-kumar-patro-230753367/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talasudeepak06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talasudeepk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-neon-theta-82.vercel.app/)
 
-### 💬 *"I vibe with the idea. I hard-code the execution. Let's build something that lasts. 🔥"*
+### 💬 *"I vibe with the idea. I learn and hard-code the execution. Let's build something that lasts. 🔥"*
 
-</div>
-x   
----
+</div>  
+
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
----
+
 
 **🔥 vibe with it. grind through it. ship it. 🔥**
 
